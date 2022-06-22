@@ -1,1 +1,1 @@
-For educational purposes only!
+An Advanced Task Manager written in Rust!
